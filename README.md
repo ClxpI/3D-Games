@@ -24,14 +24,11 @@ To explore the game's code, navigate to the `Assets` folder. Here are some key s
 
 Here is a screenshot of the Unity Hierarchy:
 
-![Hierarchy Screenshot](https://github.com/ClxpI/3D-EndlessRunner/blob/main/images/hierarchy_screenshot.png)
+![Hierarchy Screenshot](https://raw.githubusercontent.com/ClxpI/3D-EndlessRunner/main/images/hierarchy_screenshot.png)
 
 You can also watch a gameplay video of the 3D Endless Runner game directly here:
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/ClxpI/3D-EndlessRunner/blob/main/images/Gameplay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the gameplay video here](https://raw.githubusercontent.com/ClxpI/3D-EndlessRunner/main/images/Gameplay.mp4)
 
 ## Future Plans
 
@@ -42,4 +39,3 @@ In the future, I plan to enhance the game by adding exciting new features:
 - **Improved Obstacles and Power-ups**: Add variety to obstacles and introduce power-ups for the player to collect.
 - **Better Graphics**: Enhance the game visuals with new assets, textures, and lighting effects.
 
-Stay tuned for future updates!
