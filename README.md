@@ -4,7 +4,8 @@ This is a Unity 3D Endless Runner game built using **C#**. The game showcases ho
 
 ## What I Learned
 
-- **Programming Skills**: Gained hands-on experience with Unity's scripting in C#.
+- **Programming Skills**:
+  - Gained hands-on experience with Unity's scripting in C#.
   - Learned to handle **player movement** using Unity's physics and input system.
   - Implemented **obstacle spawning** at random intervals to create an endless challenge for the player.
   - Managed **score tracking** and displayed it in the game UI using Unity’s UI system.
@@ -24,12 +25,9 @@ To explore the game's code, navigate to the `Assets` folder. Here are some key s
 
 Here is a screenshot of the Unity Hierarchy:
 
-![Hierarchy Screenshot](https://raw.githubusercontent.com/ClxpI/3D-EndlessRunner/main/images/hierarchy_screenshot.png)
+![hierarchy_screenshot](https://github.com/user-attachments/assets/a8d9ed0a-681c-4832-81ae-0db6fb4fc3eb)
 
 You can also watch a gameplay video of the 3D Endless Runner game directly here:
-
-[Watch the gameplay video here](https://raw.githubusercontent.com/ClxpI/3D-EndlessRunner/main/images/Gameplay.mp4)
-
 
 https://github.com/user-attachments/assets/4d0fee50-a8d7-4927-a7c8-cd18b9e8955b
 
