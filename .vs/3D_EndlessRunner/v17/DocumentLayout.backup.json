@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3438714-BCB4-10EB-61AF-F71299D63DDA}|Assembly-CSharp.csproj|e:\\work\\portfolio\\games\\3d_endlessrunner\\assets\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3438714-BCB4-10EB-61AF-F71299D63DDA}|Assembly-CSharp.csproj|solutionrelative:assets\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3438714-BCB4-10EB-61AF-F71299D63DDA}|Assembly-CSharp.csproj|E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3438714-BCB4-10EB-61AF-F71299D63DDA}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3438714-BCB4-10EB-61AF-F71299D63DDA}|Assembly-CSharp.csproj|E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3438714-BCB4-10EB-61AF-F71299D63DDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3438714-BCB4-10EB-61AF-F71299D63DDA}|Assembly-CSharp.csproj|E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3438714-BCB4-10EB-61AF-F71299D63DDA}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\Assets\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
+              "ToolTip": "E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\Assets\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:25:45.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObstacleSpawner.cs",
+              "DocumentMoniker": "E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\Assets\\ObstacleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\ObstacleSpawner.cs",
+              "ToolTip": "E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\Assets\\ObstacleSpawner.cs",
+              "RelativeToolTip": "Assets\\ObstacleSpawner.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:25:43.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\Assets\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreManager.cs",
+              "ToolTip": "E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\Assets\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:25:38.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "E:\\Work\\Portfolio\\Games\\3D_EndlessRunner\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:52:10.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
