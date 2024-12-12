@@ -18,7 +18,7 @@ To explore the game's code, navigate to the `Assets` folder. Here are some key s
 
 - **CameraFollow.cs**: Handles the camera's movement and follows the player character as they run.
 - **ObstacleSpawner.cs**: Spawns obstacles at random positions, creating a dynamic gameplay experience.
-- **PlayerMovement.cs**: Controls the player’s movement and jumping mechanics.
+- **PlayerMovement.cs**: Controls the player’s movement mechanics.
 - **ScoreManager.cs**: Tracks and displays the player’s score as they progress in the game.
 
 ## Screenshots and Video
